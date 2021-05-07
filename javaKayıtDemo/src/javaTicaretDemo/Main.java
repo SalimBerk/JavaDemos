@@ -20,7 +20,7 @@ public class Main {
 		
 		
 		
-		System.out.println("Google doğrulaması\n");
+		System.out.println("-----KULLANICI HESAP YÖNETİMİ -----\n");
 		Scanner input=new Scanner(System.in);
 		System.out.println("1-Kullanıcı kayıt işlemi\n2-Google hesap kontrolü");
 		int option=input.nextInt();
