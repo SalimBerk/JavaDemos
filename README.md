@@ -1,6 +1,6 @@
 # JavaDemos!
 
-## JavaDemos.JavaTicaretDemo
+## JavaDemos.JavaKayıtDemo
 
 ### Kullanıcın Seçenekleri
 ![Screen Shot 7 05 2021 at 18 40](https://user-images.githubusercontent.com/77536512/117474663-d1b73500-af63-11eb-8a85-1acba20778c6.png)
